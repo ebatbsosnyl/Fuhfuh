@@ -2064,5 +2064,4 @@ getallthreads = function(...)
                         error = function(msg)
                             print("Executed a script")
                             original_error(msg)
-                        end
-                    
+                        end}
